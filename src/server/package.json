@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "byte-size": "^9.0.1",
+    "esbuild": "^0.27.2",
+    "picocolors": "^1.1.1",
+    "vite": "^7.3.1"
+  }
+}
